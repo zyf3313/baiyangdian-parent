@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baiyangdian-marketing-service:war">
+    <output-path>$PROJECT_DIR$/baiyangdian-marketing-service/target</output-path>
+    <root id="archive" name="baiyangdian-marketing-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="baiyangdian-marketing-service:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-common" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-dao" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-dao" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-manager-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-manager-web (1)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-pojo" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-pojo" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-sellergoods-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-sellergoods-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-sellergoods-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-sellergoods-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-sellergoods-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-sellergoods-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-shop-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-shop-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-order-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-order-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-order-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-order-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-order-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-order-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-member-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-member-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-member-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-member-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-member-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-member-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-marketing-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-marketing-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-marketing-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-marketing-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-marketing-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-marketing-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-systemsettings-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-systemsettings-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-systemsettings-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-systemsettings-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-systemsettings-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-systemsettings-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-statistics-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-statistics-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-statistics-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-statistics-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-statistics-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-statistics-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-show-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-show-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for baiyangdian-show-interface" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="baiyangdian-show-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="baiyangdian-common" target="1.8" />
+      <module name="baiyangdian-dao" target="1.8" />
+      <module name="baiyangdian-manager-web" target="1.8" />
+      <module name="baiyangdian-manager-web (1)" target="1.8" />
+      <module name="baiyangdian-marketing-interface" target="1.8" />
+      <module name="baiyangdian-marketing-service" target="1.8" />
+      <module name="baiyangdian-marketing-web" target="1.8" />
+      <module name="baiyangdian-member-interface" target="1.8" />
+      <module name="baiyangdian-member-service" target="1.8" />
+      <module name="baiyangdian-member-web" target="1.8" />
+      <module name="baiyangdian-order-interface" target="1.8" />
+      <module name="baiyangdian-order-service" target="1.8" />
+      <module name="baiyangdian-order-web" target="1.8" />
+      <module name="baiyangdian-parent" target="1.8" />
+      <module name="baiyangdian-pojo" target="1.8" />
+      <module name="baiyangdian-sellergoods-interface" target="1.8" />
+      <module name="baiyangdian-sellergoods-service" target="1.8" />
+      <module name="baiyangdian-sellergoods-web" target="1.8" />
+      <module name="baiyangdian-shop-web" target="1.8" />
+      <module name="baiyangdian-show-interface" target="1.8" />
+      <module name="baiyangdian-show-service" target="1.8" />
+      <module name="baiyangdian-statistics-interface" target="1.8" />
+      <module name="baiyangdian-statistics-service" target="1.8" />
+      <module name="baiyangdian-statistics-web" target="1.8" />
+      <module name="baiyangdian-systemsettings-interface" target="1.8" />
+      <module name="baiyangdian-systemsettings-service" target="1.8" />
+      <module name="baiyangdian-systemsettings-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
