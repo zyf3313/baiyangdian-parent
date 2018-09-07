@@ -7,27 +7,21 @@
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-manager-web/baiyangdian-manager-web.iml" filepath="$PROJECT_DIR$/baiyangdian-manager-web/baiyangdian-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-marketing-interface/baiyangdian-marketing-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-marketing-interface/baiyangdian-marketing-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-marketing-service/baiyangdian-marketing-service.iml" filepath="$PROJECT_DIR$/baiyangdian-marketing-service/baiyangdian-marketing-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-marketing-web/baiyangdian-marketing-web.iml" filepath="$PROJECT_DIR$/baiyangdian-marketing-web/baiyangdian-marketing-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-member-interface/baiyangdian-member-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-member-interface/baiyangdian-member-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-member-service/baiyangdian-member-service.iml" filepath="$PROJECT_DIR$/baiyangdian-member-service/baiyangdian-member-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-member-web/baiyangdian-member-web.iml" filepath="$PROJECT_DIR$/baiyangdian-member-web/baiyangdian-member-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-order-interface/baiyangdian-order-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-order-interface/baiyangdian-order-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-order-service/baiyangdian-order-service.iml" filepath="$PROJECT_DIR$/baiyangdian-order-service/baiyangdian-order-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-order-web/baiyangdian-order-web.iml" filepath="$PROJECT_DIR$/baiyangdian-order-web/baiyangdian-order-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-parent.iml" filepath="$PROJECT_DIR$/baiyangdian-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-pojo/baiyangdian-pojo.iml" filepath="$PROJECT_DIR$/baiyangdian-pojo/baiyangdian-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-sellergoods-interface/baiyangdian-sellergoods-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-sellergoods-interface/baiyangdian-sellergoods-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-sellergoods-service/baiyangdian-sellergoods-service.iml" filepath="$PROJECT_DIR$/baiyangdian-sellergoods-service/baiyangdian-sellergoods-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-sellergoods-web/baiyangdian-sellergoods-web.iml" filepath="$PROJECT_DIR$/baiyangdian-sellergoods-web/baiyangdian-sellergoods-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-shop-web/baiyangdian-shop-web.iml" filepath="$PROJECT_DIR$/baiyangdian-shop-web/baiyangdian-shop-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-show-interface/baiyangdian-show-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-show-interface/baiyangdian-show-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-show-service/baiyangdian-show-service.iml" filepath="$PROJECT_DIR$/baiyangdian-show-service/baiyangdian-show-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-statistics-interface/baiyangdian-statistics-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-statistics-interface/baiyangdian-statistics-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-statistics-service/baiyangdian-statistics-service.iml" filepath="$PROJECT_DIR$/baiyangdian-statistics-service/baiyangdian-statistics-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-statistics-web/baiyangdian-statistics-web.iml" filepath="$PROJECT_DIR$/baiyangdian-statistics-web/baiyangdian-statistics-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-systemsettings-interface/baiyangdian-systemsettings-interface.iml" filepath="$PROJECT_DIR$/baiyangdian-systemsettings-interface/baiyangdian-systemsettings-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/baiyangdian-systemsettings-service/baiyangdian-systemsettings-service.iml" filepath="$PROJECT_DIR$/baiyangdian-systemsettings-service/baiyangdian-systemsettings-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baiyangdian-systemsettings-web/baiyangdian-systemsettings-web.iml" filepath="$PROJECT_DIR$/baiyangdian-systemsettings-web/baiyangdian-systemsettings-web.iml" />
     </modules>
   </component>
 </project>

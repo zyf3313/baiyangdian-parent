@@ -69,7 +69,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-sellergoods-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-shop-web" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -97,7 +96,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-order-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-member-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -111,7 +109,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-member-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-member-interface" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -139,7 +136,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-marketing-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-systemsettings-interface" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -160,7 +156,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-systemsettings-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-statistics-interface" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -181,7 +176,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="baiyangdian-statistics-web" />
       </profile>
       <profile default="false" name="Annotation profile for baiyangdian-show-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />

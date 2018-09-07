@@ -26,6 +26,16 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/baiyangdian-marketing-web/pom.xml" />
+        <option value="$PROJECT_DIR$/baiyangdian-member-web/pom.xml" />
+        <option value="$PROJECT_DIR$/baiyangdian-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/baiyangdian-sellergoods-web/pom.xml" />
+        <option value="$PROJECT_DIR$/baiyangdian-statistics-web/pom.xml" />
+        <option value="$PROJECT_DIR$/baiyangdian-systemsettings-web/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
